@@ -14,7 +14,7 @@ const Login = (props) => {
           <CTALogoTwo src="/images/cta-logo-two.png" alt="" />
         </CTA>
         <BgImage />
-      <span>~Gourav~ </span>
+      <span>~Deepika~ </span>
       </Content>
 
     </Container>
